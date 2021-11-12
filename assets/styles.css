@@ -1,0 +1,8 @@
+.main-nav li {
+  display: inline-block;
+}
+
+.main-nav li a.active {
+  text-decoration: none;
+}
+/*# sourceMappingURL=styles.css.map */
